@@ -22,7 +22,3 @@ To set up and run the DeFi-Insighter project locally:
 - Python 3
 - Solidity (solc)
 
-### Clone the Repository
-```bash
-git clone https://github.com/<your-username>/DeFi-Insighter.git
-cd DeFi-Insighter
